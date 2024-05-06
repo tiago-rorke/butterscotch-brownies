@@ -1,6 +1,4 @@
----
-title: "Butterscotch Brownies"
----
+# Butterscotch Brownies
 
 ![](brownies_com_acucar.jpg)
 _Photo of some other kind of brownies by [ChefRS](https://www.chefrs.com.br/brownie/) CC-BY-NC_
