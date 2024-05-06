@@ -1,5 +1,5 @@
 ---
-title: Butterscotch Brownies
+title: "Butterscotch Brownies"
 ---
 
 ![](brownies_com_acucar.jpg)
